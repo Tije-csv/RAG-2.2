@@ -1,0 +1,49 @@
+{
+  "documents": [
+    {
+      "id": "doc_1",
+      "content": "This is a sample document for the RAG system.",
+      "metadata": {
+        "source": "initial_corpus",
+        "type": "text",
+        "timestamp": "2025-07-20T00:00:00Z"
+      }
+    },
+    {
+      "id": "doc_2",
+      "content": "Another example document to populate the corpus.",
+      "metadata": {
+        "source": "initial_corpus",
+        "type": "text",
+        "timestamp": "2025-07-20T00:00:00Z"
+      }
+    },
+    {
+      "id": "doc_3",
+      "content": "Information retrieval systems help find relevant content.",
+      "metadata": {
+        "source": "initial_corpus",
+        "type": "text",
+        "timestamp": "2025-07-20T00:00:00Z"
+      }
+    },
+    {
+      "id": "doc_4",
+      "content": "FAISS is an efficient similarity search library.",
+      "metadata": {
+        "source": "initial_corpus",
+        "type": "text",
+        "timestamp": "2025-07-20T00:00:00Z"
+      }
+    },
+    {
+      "id": "doc_5",
+      "content": "Vector embeddings represent text in high-dimensional space.",
+      "metadata": {
+        "source": "initial_corpus",
+        "type": "text",
+        "timestamp": "2025-07-20T00:00:00Z"
+      }
+    }
+  ]
+}
